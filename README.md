@@ -1,8 +1,7 @@
-- 👋 Hi, I'm caricature 
-- - 🌱 I’m currently learning python, linux, anything and everything i can
-- 💞️ I’m looking to get very good grasp on things
-- 📫 How to reach me ...suicidenownseason@gmail.com
-im new
+- 👋 Hi, I'm Caricature'
+- - 🌱 I’m currently learning's Him's.
+-im trying so hard, just alot alone...
+- 📫 How to reach me here i guess 
 
 
 <!---
